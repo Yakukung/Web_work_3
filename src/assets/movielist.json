@@ -1,0 +1,72 @@
+[
+  {
+    "idx": 1,
+    "name": "Captain America: The First Avenger",
+    "rate": "6.9",
+    "detail": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a 'Super-Soldier serum'. But being Captain America comes at a price as he attempts to take down a warmonger and a terrorist organization.",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg",
+    "year":"2011",
+    "tailerLink":"https://youtu.be/JerVrbLldXw?si=cxc7eRbfTRXSy1eN"
+  },
+  
+
+  {
+    "idx": 2,
+    "name": "The Avengers",
+    "rate": "8.0",
+    "detail": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
+    "year":"2012",
+    "tailerLink":"https://youtu.be/eOrNdBpGMv8?si=jjzrTrzOjRCjLI-9"
+  },
+  
+  {
+    "idx": 3,
+    "name":"Iron Man",
+    "rate":"7.9",
+    "detail":"After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "url":"https://upload.wikimedia.org/wikipedia/th/2/20/Ironmanposter.jpg",
+    "year":"2008",
+    "tailerLink":"https://youtu.be/8ugaeA-nMTc?si=jCvL2ymb1X9tdT7f"
+  },
+
+  {
+    "idx": 4,
+    "name":"Iron Man Three",
+    "rate":"7.1",
+    "detail":"When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "url":"https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg",
+    "year":"2013",
+    "tailerLink":"https://youtu.be/YLorLVa95Xo?si=dHa9JT54bYNNDU3k"
+  },
+
+  {
+    "idx": 5,
+    "name":"Thor",
+    "rate":"7.0",
+    "detail":"The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+    "url":"https://upload.wikimedia.org/wikipedia/th/thumb/f/fc/Thor_poster.jpg/220px-Thor_poster.jpg",
+    "year":"2011",
+    "tailerLink":"https://youtu.be/JOddp-nlNvQ?si=iLVJf7jrXMtWfFAi"
+  },
+
+  {
+    "idx": 6,
+    "name":"Ant-Man and the Wasp: Quantumania",
+    "rate":"6.1",
+    "detail":"Scott Lang and Hope Van Dyne are dragged into the Quantum Realm, along with Hope's parents and Scott's daughter Cassie. Together they must find a way to escape, but what secrets is Hope's mother hiding? And who is the mysterious Kang?",
+    "url":"https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Ant-Man_and_the_Wasp_Quantumania_poster.jpg/220px-Ant-Man_and_the_Wasp_Quantumania_poster.jpg",
+    "year":"2023",
+    "tailerLink":"https://youtu.be/ZlNFpri-Y40?si=0aOSC78ppjNRhlf-"
+  },
+
+  {
+    "idx": 0,
+    "name":"Star Trek Beyond",
+    "rate":"7.0",
+    "detail":"The crew of the USS Enterprise explores the furthest reaches of uncharted space, where they encounter a new ruthless enemy, who puts them, and everything the Federation stands for, to the test.",
+    "url":"https://static.wikia.nocookie.net/moviedatabase/images/8/8a/Star_Trek_Beyond.jpg",
+    "year":"2016",
+    "tailerLink":"https://youtu.be/-QYGBW4jrDE?si=05EjbugPcq_Ys1Nz"
+  }
+]

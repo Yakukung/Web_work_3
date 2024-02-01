@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@300&family=Roboto:wght@300&family=Thasadith:ital,wght@1,700&display=swap");
+
+body {
+  background-color: black;
+  width: auto;
+  height: 100%;
+}
+
+.Back-BTN {
+  button {
+     color: #ffcc00;
+  }
+}
+
+.Back-BTN {
+  margin-top: 2rem;
+}
+
+.setFont {
+  font-family: 'Roboto', sans-serif;
+}
+
+.Actor-list {
+  color: white;
+}
+.setbox {
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img {
+  width: 25%;
+}
+.video {
+  width: 75%;
+}
+.setimg {
+  width: 300px;
+  height: 470px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.name{
+  margin-bottom: -50px;
+  color: white;
+  font-size: 50px;
+  display: flex;
+}
+
+.personal{
+  margin-top: -20px;
+  color: white;
+}

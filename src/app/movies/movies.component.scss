@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@300&family=Roboto:wght@300&family=Thasadith:ital,wght@1,700&display=swap");
+body {
+  background-color: black;
+  width: 100%;
+  height: 100vh;
+}
+.container{
+  margin-top: 3rem;
+}
+.movie-card {
+    background-color: #262626;
+    overflow: hidden;
+    color: white;
+}
+
+.card-image{
+  aspect-ratio: 9/14;
+}
+.rateAndname {
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 14px;
+}
+
+.movie-details {
+    padding: 10px;
+    text-align: center;
+}
+
+.title {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    height: 8px;
+    text-align: start;
+}
+
+.full-width-button {
+  display: inline-block;
+  width: 100%;
+}
+.BTN{
+  margin-top: 3rem;
+  & button{
+    margin-bottom: 0.5rem;
+    color: white;
+    & .material-symbols-outlined{
+      font-size: 20px;
+      vertical-align: middle;
+      }
+  }
+}
+
+.movie-box{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.movie-card {
+  width: auto;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column; /* จัดให้เป็นคอลัมน์ */
+  
+}
+.rateAndname {
+  margin: 5px 0;
+}
+
+.Actor-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  
+}
+.Actor-list p {
+  margin-top: 10px;
+}
+
+.Actor-list img {
+  border-radius: 50%;
+  width: 150px; 
+  height: 150px;
+  object-fit: cover;
+  border: 1px solid #ccc;
+}
+
+
+
+

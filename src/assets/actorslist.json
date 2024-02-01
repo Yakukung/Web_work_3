@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Robert Downey Jr.",
+    "url": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_.jpg",
+    "age":"59",
+    "video":"https://youtu.be/Z_2A5adT3FI?si=DhL2uZrM49VC08SL",
+    "personal": "Robert Downey Jr. has evolved into one of the most respected actors in Hollywood. With an amazing list of credits to his name, he has managed to stay new and fresh even after over four decades in the business.Downey was born April 4, 1965 in Manhattan, New York, the son of writer"
+  },
+
+  {
+    "id": 2,
+    "name": "Chris Evans",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ChrisEvans2023.jpg/220px-ChrisEvans2023.jpg",
+    "age":"43",
+    "video":"https://youtu.be/tT7IQe_i3N8?si=5yKHCvG5wwBIXq3T",
+    "personal": "Christopher Robert Evans is an American actor, film producer, and director. Evans began his acting career in typical fashion: performing in school productions and community theatre.He was born in Boston, Massachusetts, the son of Lisa (Capuano), who worked at the Concord Youth Theatre"
+  },
+
+  {
+    "id": 3,
+    "name": "Chris Hemsworth",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg/220px-Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg",
+    "age":"41",
+    "video":"https://youtu.be/sh4UNg-xsFM?si=loiqE6vFhE-AsWm2",
+    "personal": "Christopher Chris Hemsworth was born on August 11, 1983 in Melbourne, Victoria, Australia to Leonie Hemsworth (née van Os), an English teacher & Craig Hemsworth, a social-services counselor. His brothers are actors, Liam Hemsworth & Luke Hemsworth"
+  },
+
+  {
+    "id": 4,
+    "name": "Tom Cruise",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_Cruise_by_Gage_Skidmore_2.jpg/220px-Tom_Cruise_by_Gage_Skidmore_2.jpg",
+    "age":"62",
+    "video":"https://youtu.be/-lsFs2615gw?si=86Wv5_R9cDgGyxrh",
+    "personal": "In 1976, if you had told fourteen-year-old Franciscan seminary student Thomas Cruise Mapother IV that one day in the not too distant future he would be Tom Cruise, one of the top 100 movie stars of all time"
+  },
+
+  {
+    "id": 5,
+    "name": "Tom Holland",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tom_Holland_by_Gage_Skidmore.jpg/220px-Tom_Holland_by_Gage_Skidmore.jpg",
+    "age":"28 ",
+    "video":"https://youtu.be/LXrWIFYdtCE?si=6rVkxHnOYCACJNU1",
+    "personal": "Thomas Stanley Holland was born in Kingston-upon-Thames, Surrey, to Nicola Elizabeth (Frost), a photographer, and Dominic Holland (Dominic Anthony Holland), who is a comedian and author."
+  },
+
+  {
+    "id": 6,
+    "name": "Benedict Cumberbatch",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BCumberbatch_Comic-Con_2019.jpg/220px-BCumberbatch_Comic-Con_2019.jpg",
+    "age":"48",
+    "video":"https://youtu.be/tlRpLGEwssA?si=GEE0Xqpfhxz0JxOM",
+    "personal": "Benedict Timothy Carlton Cumberbatch was born and raised in London, England. His parents, Wanda Ventham and Timothy Carlton (born Timothy Carlton Congdon Cumberbatch), are both actors. He is a grandson of submarine commander Henry Carlton Cumberbatch"
+  }
+]
